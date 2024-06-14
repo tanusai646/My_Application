@@ -36,5 +36,13 @@ class MainActivity : AppCompatActivity() {
             h--
             hallotext.text = h.toString()
         }
+
+        button3.setOnClickListener {
+            val intent = Intent(this, SubActivity::class.java)
+            //h++
+            //hallotext.text = h.toString()
+            //startActivity(intent)
+            startActivity(intent)
+        }
     }
 }
