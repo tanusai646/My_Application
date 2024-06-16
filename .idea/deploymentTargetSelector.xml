@@ -15,7 +15,7 @@
           <targets>
             <Target type="DEFAULT_BOOT">
               <handle>
-                <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\imayu\.android\avd\Pixel_3a_API_34.avd" />
+                <DeviceId pluginId="PhysicalDevice" identifier="serial=28141JEGR13758" />
               </handle>
             </Target>
           </targets>
